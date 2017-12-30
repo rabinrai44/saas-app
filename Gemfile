@@ -39,6 +39,9 @@ end
 # Use Twitter Bootstrap Library for Front-End UI and Layout
 gem 'bootstrap-sass', '3.3.7'
 
+# Use FontAwesome Library for fornt-end UI and layout
+gem 'font-awesome-sass', '4.6.2'
+
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console'
