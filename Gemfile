@@ -54,7 +54,7 @@ end
 
 group :production do 
   # Use the PostgreSQL gem for Heoku production servers 
-  gem 'pg', '0.18.4'
+  gem 'pg', '0.21.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
