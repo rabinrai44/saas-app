@@ -18,6 +18,15 @@
  @import "font-awesome-sprockets";
  @import "font-awesome";
  
+// Global Styles 
+html {
+    font-size: 100%;
+}
+ body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+}
+
  // Typography  Styles
  h1, h2, h3 {
      font-family: 'Open Sans', sans-serif;
